@@ -19,7 +19,7 @@ wget https://repo.anaconda.com/archive/Anaconda3-2018.12-MacOSX-x86_64.sh
 ```
 安装到最后一步，会问你是否要安装微软出品的 [Visual Studio Code](https://code.visualstudio.com)，选择 `yes` —— 反正以后你的电脑上会不止一个文本编辑器…… 以后你可能还会安装的文本编辑器包括 [SublimeText](https://www.sublimetext.com), [Atom](https://atom.io) 等等。
 
-安装完毕之后，打开 Terminal(Windows 系统需要打开之前安装的 Anaconda Prompt 输入)，继续安装几个组件：
+安装完毕之后，打开 Terminal(Windows 系统需要管理员打开之前安装的 Anaconda Prompt 输入)，继续安装几个组件：
 ```bash
 conda update conda
 conda update anaconda
